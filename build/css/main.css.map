@@ -1,0 +1,30 @@
+{
+    "version": 3,
+    "mappings": "AMAA,AAAA,IAAI,CAAC;EACJ,UAAU,EAAE,UAAU;EACtB,UAAU,EAAE,KAAK;CACjB;;AAED,AAAA,CAAC;AACD,CAAC,AAAA,QAAQ;AACT,CAAC,AAAA,OAAO,CAAC;EACR,UAAU,EAAE,OAAO;CACnB;;AAED,AAAA,UAAU,CAAC;EACV,QAAQ,EAAE,IAAI;EACd,KAAK,EAAE,IAAI;EACX,SAAS,EAAE,MAAM;EACjB,MAAM,EAAE,MAAM;EACd,OAAO,EAAE,MAAM;CACf;;AAED,AAAA,GAAG,CAAC;EACH,SAAS,EAAE,IAAI;CACf",
+    "sources": [
+        "../../src/scss/main.scss",
+        "../../src/scss/1-helpers/_variables.scss",
+        "../../src/scss/1-helpers/_functions.scss",
+        "../../src/scss/1-helpers/_mixins.scss",
+        "../../src/scss/2-tools/_placeholder.scss",
+        "../../src/scss/3-basics/_reset.scss",
+        "../../src/scss/3-basics/_base.scss",
+        "../../src/scss/3-basics/_buttons.scss",
+        "../../src/scss/3-basics/_links.scss",
+        "../../src/scss/3-basics/_typography.scss",
+        "../../src/scss/3-basics/_fonts.scss",
+        "../../src/scss/3-basics/_global.scss",
+        "../../src/scss/4-layout/_header.scss",
+        "../../src/scss/4-layout/_navigation.scss",
+        "../../src/scss/4-layout/_siteContent.scss",
+        "../../src/scss/4-layout/_footer.scss",
+        "../../src/scss/5-modules/_banner.scss",
+        "../../src/scss/5-modules/_slider.scss",
+        "../../src/scss/6-pages/_home.scss",
+        "../../src/scss/6-pages/_projects.scss",
+        "../../src/scss/6-pages/_about.scss",
+        "../../src/scss/6-pages/_contact.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
