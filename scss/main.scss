@@ -1,8 +1,32 @@
-// common style imports
-@import "./settings/responsive_mixins";
-@import "./settings/colors";
-@import "./settings/fonts";
-@import "./settings/typography";
+// 1 - Helpers
+@import "1-helpers/variables";
+@import "1-helpers/functions";
+@import "1-helpers/mixins";
 
-//custom page styles
-@import "./pageStyles/home";
+// 2 - Tools
+@import "2-tools/placeholder.scss";
+
+// 3 - Basics
+@import "3-basics/reset";
+@import "3-basics/base";
+@import "3-basics/buttons";
+@import "3-basics/links";
+@import "3-basics/typography";
+@import "3-basics/fonts";
+@import "3-basics/global";
+
+// 4 - Layout
+@import "4-layout/header";
+@import "4-layout/navigation";
+@import "4-layout/siteContent";
+@import "4-layout/footer";
+
+// 5 - Modules
+@import "5-modules/banner";
+@import "5-modules/slider";
+
+// 6 - Pages
+@import "6-pages/home";
+@import "6-pages/projects";
+@import "6-pages/about";
+@import "6-pages/contact";
