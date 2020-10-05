@@ -1,0 +1,14 @@
+{
+    "version": 3,
+    "mappings": "AGAA,AAAA,CAAC,CAAC;EACD,KAAK,EDAkB,OAAO;CCC9B",
+    "sources": [
+        "../scss/main.scss",
+        "../scss/settings/_responsive_mixins.scss",
+        "../scss/settings/_colors.scss",
+        "../scss/settings/_fonts.scss",
+        "../scss/settings/_typography.scss",
+        "../scss/pageStyles/_home.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}

@@ -1,0 +1,8 @@
+// common style imports
+@import "./settings/responsive_mixins";
+@import "./settings/colors";
+@import "./settings/fonts";
+@import "./settings/typography";
+
+//custom page styles
+@import "./pageStyles/home";
