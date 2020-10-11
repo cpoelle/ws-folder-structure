@@ -4,10 +4,9 @@
 @import "1-helpers/mixins";
 
 // 2 - Tools
-@import "2-tools/placeholder.scss";
 
 // 3 - Basics
-@import "3-basics/reset";
+@import "3-basics/normalize";
 @import "3-basics/base";
 @import "3-basics/buttons";
 @import "3-basics/links";
