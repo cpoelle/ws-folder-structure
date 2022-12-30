@@ -1,4 +1,3 @@
-# Home
-website folder structure
+# WIP - Website folder
 
-WIP: Folder structure for a website project. 
+Folder structure for a website project. 
