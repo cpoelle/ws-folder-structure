@@ -1,3 +1,3 @@
 # WIP - SCSS folder structure
 
-Folder structure for a scss project. 
+Folder structure for scss + a normalize css file. 
