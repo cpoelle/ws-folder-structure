@@ -1,3 +1,3 @@
-# WIP - Website folder
+# WIP - SCSS folder structure
 
-Folder structure for a website project. 
+Folder structure for a scss project. 
